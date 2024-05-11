@@ -1,0 +1,33 @@
+body{
+    color: #ffff00;
+    text-shadow: 1px 1px 1px #000;
+    background-color: #004080;
+}
+h3{
+    color: #00ff40;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 2em;
+  
+
+}
+p{
+    color: #00ff40;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 2em;
+}
